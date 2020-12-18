@@ -7,9 +7,5 @@ package com.zl.learn;
  */
 public class Git1 {
     public static void main(String[] args) {
-        System.out.println("版本1");
-        System.out.println("版本3");
-        System.out.println("版本4");
-        System.out.println("版本5");
     }
 }
