@@ -10,5 +10,6 @@ public class Git1 {
         System.out.println("版本1");
         System.out.println("版本3");
         System.out.println("版本4");
+        System.out.println("版本5");
     }
 }
