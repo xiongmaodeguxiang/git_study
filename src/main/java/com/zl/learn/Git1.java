@@ -19,5 +19,7 @@ public class Git1 {
 
         System.out.println("我是master提交");
 
+        System.out.println("我是maste2提交");
+
     }
 }
